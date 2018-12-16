@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Research
+2. Program
+3. Develop
+    1. Repeat
